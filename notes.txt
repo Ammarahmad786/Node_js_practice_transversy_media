@@ -1,0 +1,3 @@
+Node is efficient to use in with the i/o less intensive operations 
+Node is not efficient to use in with the CPU extreme intensive operation bcz it takes the memory handlers to be stuck
+Node comes with (repple::::::::read eval print loop) => it allow us to run javascript directly in the console instead of running it in the broswer
